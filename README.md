@@ -6,5 +6,5 @@ The data sets for training and testing are created by driving the car in the sim
 
 
 
- model.h5 is the file for the convolutional neural network model created in google Colab
+ model.h5 is the file for the convolutional neural network model created in Google Colab
  drive.py is used for connecting the neural network model to the udacity simulator.
